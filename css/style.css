@@ -1,0 +1,19 @@
+body {
+    background-image: url("images/Movie-1200-630.jpg");
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, #Films {
+    color: white;
+}
+
+.réalisateurs {
+    color: yellowgreen; 
+    font-size: 25px;
+}
+
+#Films {
+    color: white;
+    font-size: 15px;
+}
