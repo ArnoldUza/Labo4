@@ -13,11 +13,18 @@ h1 {
     font-size: 25px;
 }
 
-#Film1,
-#Film2,
-#Film3,
-#Film4 {
+ul {
+    list-style: none;
+}
+
+ul li.réalisateurs ol li ul {
+    list-style-type: disc;
+}
+
+ul li.réalisateurs ol {
     color: white;
     font-size: 15px;
     list-style-type: upper-latin;
 }
+
+
