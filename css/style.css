@@ -9,11 +9,15 @@ h1 {
 }
 
 .réalisateurs {
-    color: yellowgreen; 
+    color: yellowgreen;
     font-size: 25px;
 }
 
-#Film1, #Film2, #Film3, #Film4 {
+#Film1,
+#Film2,
+#Film3,
+#Film4 {
     color: white;
     font-size: 15px;
+    list-style-type: upper-latin;
 }
