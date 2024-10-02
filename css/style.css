@@ -17,11 +17,11 @@ ul {
     list-style: none;
 }
 
-ul li.réalisateurs ol li ul {
+ul.réalisateurs li ol li ul {
     list-style-type: disc;
 }
 
-ul li.réalisateurs ol {
+ul.réalisateurs li ol {
     color: white;
     font-size: 15px;
     list-style-type: upper-latin;
